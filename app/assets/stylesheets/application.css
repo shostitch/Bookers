@@ -61,5 +61,9 @@ h1{
 
 th{
   padding-bottom: 5px;
+  }
   
+  .a:-webkit-any-link{
+  cursor: pointer;
+  text-decoration: underline;
 }
