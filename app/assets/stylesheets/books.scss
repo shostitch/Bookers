@@ -39,3 +39,20 @@ h2{
   font-weight: bold;
 }
 
+tbody{
+  display: table-row-group;
+  vertical-align: middle;
+  border-color:inherit;
+}
+
+tr{
+  display: table-row;
+  vertical-align:inherit;
+  border-color:inherit;
+}
+
+form{
+  display:block;
+  margin:0em;
+}
+
